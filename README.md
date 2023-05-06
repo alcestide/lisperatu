@@ -12,6 +12,6 @@ Experimenting with **Common Lisp** while trying to gain a personal knowledge abo
 - <code> quicksort </code> (Quicksort)
 - <code> quiz-russian-vocabulary </code> (Anki-like quiz of russian vocabs)
 - <code> rock-paper-scissors </code> (Pretty self-explainatory. Multi-player to be implemented in a future update)
-- <code> romantoint </code> (Implementation of a famous LeetCode Challenge that involves roman numbers)
+- <code> roman_to_int </code> (Implementation of a famous LeetCode Challenge that involves roman numbers)
 
 ---
