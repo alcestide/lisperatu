@@ -9,6 +9,7 @@ Experimenting with **Common Lisp** while trying to gain a personal knowledge abo
 - <code> bin-search </code> (Binary Search)
 - <code> insertion_sort </code> (Insertion Sort)
 - <code> matrix_multiplication </code> (Simple matrix multiplication)
+- <code> orc_battle </code> (Orc Battle CLI game from "Land of Lisp")
 - <code> quicksort </code> (Quicksort)
 - <code> quiz-russian-vocabulary </code> (Anki-like quiz of russian vocabs)
 - <code> rock-paper-scissors </code> (Pretty self-explainatory. Multi-player to be implemented in a future update)
