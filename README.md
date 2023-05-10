@@ -7,6 +7,7 @@ Experimenting with **Common Lisp** while trying to gain a personal knowledge abo
 
 ### Contents: 
 - <code> bin-search </code> (Binary Search)
+- <code> fizzbuzz </code> (Fizzbuzz Game)
 - <code> insertion_sort </code> (Insertion Sort)
 - <code> matrix_multiplication </code> (Simple matrix multiplication)
 - <code> orc_battle </code> (Orc Battle CLI game from "Land of Lisp")
