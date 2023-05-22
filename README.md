@@ -7,12 +7,16 @@ Experimenting with **Common Lisp** while trying to gain a personal knowledge abo
 
 ### Contents: 
 - <code> bin-search </code> (Binary Search)
+- <code> climbing-stairs </code> (Staircase Problem)
+- <code> cointoss </code> (Cointoss)
+- <code> fibonacci </code> (Fibonacci)
 - <code> fizzbuzz </code> (Fizzbuzz Game)
 - <code> insertion_sort </code> (Insertion Sort)
 - <code> lcg </code> (Linear Congruential Generator from Rosetta Code)
 - <code> matrix_multiplication </code> (Simple matrix multiplication)
 - <code> open_addressing_ht </code> (Open Addressing Hash Table)
 - <code> orc_battle </code> (Orc Battle CLI game from "Land of Lisp")
+- <code> palindrome-number </code> (Palindrome Number)
 - <code> quicksort </code> (Quicksort)
 - <code> quiz-russian-vocabulary </code> (Anki-like quiz of russian vocabs)
 - <code> rock-paper-scissors </code> (Pretty self-explainatory. Multi-player to be implemented in a future update)
