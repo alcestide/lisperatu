@@ -1,5 +1,5 @@
-# Common Lisp Playground
-Experimenting with **Common Lisp** while trying to gain a personal knowledge about the language, by reading books, documentations, following courses and just trying to understand how Lisp works *under the hood*. My little personal compendium of **snippets** of **code** and probably even some notes. I hope this repo will get pretty huge in the near future.
+# Lisperatu
+Experimenting with **Lisp** dialects while trying to gain a personal knowledge about the language, by reading books, documentations, following courses and just trying to understand how Lisp works *under the hood*. My little personal compendium of **snippets** of **code** and probably even some notes. I hope this repo will get pretty huge in the near future.
 
 *In Lisp we Trust.*
 
