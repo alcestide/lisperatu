@@ -9,6 +9,7 @@ Experimenting with **Lisp** dialects while trying to gain a personal knowledge a
 - [`bin-search`](https://github.com/alcestide/CLisping/blob/main/bin-search.lisp)  ([Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm))
 - [`climbing-stairs`](https://github.com/alcestide/CLisping/blob/main/climbing-stairs.lisp)  ([Staircase Problem](https://leetcode.com/problems/climbing-stairs/))
 - [`cointoss`](https://github.com/alcestide/CLisping/blob/main/cointoss.lisp)  (Coin toss)
+- [`factorial`](https://github.com/alcestide/CLisping/blob/main/factorial.clj) (Factorial function)
 -  [`fibonacci`](https://github.com/alcestide/CLisping/blob/main/fibonacci.lisp)  ([Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_sequence))
 -  [`fizzbuzz`](https://github.com/alcestide/CLisping/blob/main/fizzbuzz.lisp)  ([Fizzbuzz](https://en.wikipedia.org/wiki/Fizz_buzz) Game)
 -  [`insertion_sort`](https://github.com/alcestide/CLisping/blob/main/insertion_sort.lisp) ⎯ ([_Insertion Sort_](https://it.wikipedia.org/wiki/Insertion_sort))
@@ -23,6 +24,7 @@ Experimenting with **Lisp** dialects while trying to gain a personal knowledge a
 - [`rock-paper-scissors`](https://github.com/alcestide/CLisping/blob/main/rock-paper-scissors.lisp)  (Pretty self-explainatory. _Multi-player_ to be implemented in a future update)
 - [`roman_to_int`](https://github.com/alcestide/CLisping/blob/main/roman_to_int.lisp)  (Implementation of a famous _LeetCode_ Challenge that involves _roman numbers_.)
 - [`simple_random_sentence`](https://github.com/alcestide/CLisping/blob/main/simple_random_sentence.lisp)  (Super simple code that prints a """_random_""" sentence in english.)
+- [`towerhanoi`](https://github.com/alcestide/CLisping/blob/main/towerhanoi.clj)  (Implementation of the Tower of Hanoi Puzzle in Clojure.)
 - [`webserversample`](https://github.com/alcestide/CLisping/blob/main/webserversample.lisp)  (Hunchentoot Library Sample.)
 
 ---
