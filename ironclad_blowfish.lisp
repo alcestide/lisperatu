@@ -17,7 +17,7 @@
     (coerce (mapcar #'code-char (coerce msg 'list)) 'string)))
 
 ;; Encryption
-;; (defvar encrypted-message (encrypt "Message" "Password"))
+(defvar encrypted-message (encrypt "Message" "Password"))
 
 ;; Decryption
-;; (decrypt encrypted-message "Password")
+(decrypt encrypted-message "Password")
